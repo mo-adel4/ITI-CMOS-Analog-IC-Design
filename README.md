@@ -1,0 +1,58 @@
+# ITI CMOS Analog IC Design
+
+This repository archives my completed lab work for the **ITI CMOS Analog IC Design** course. Each lab report is preserved in its original PDF form and organized in its own numbered directory so that schematics, simulations, results, calculations, and layout work can be added later without changing the repository structure.
+
+## Course topics
+
+The submitted lab reports cover:
+
+- RC low-pass filters and MOSFET DC/small-signal characteristics
+- Common-source, common-drain, cascode, and differential amplifiers
+- Simple and wide-swing cascode current mirrors, including mismatch analysis
+- Operational transconductance amplifiers (5T, two-stage Miller-compensated, and fully differential folded-cascode)
+- Common-mode range, CMRR, loop gain, phase margin, and closed-loop behavior
+- Negative feedback, frequency compensation, settling time, slew rate, and noise simulation
+
+## Labs
+
+| Lab | Description | Status |
+| --- | --- | --- |
+| [Lab 01](Labs/Lab-01/Lab1.pdf) | RC low-pass filter simulation and MOSFET characteristics | Completed |
+| [Lab 02](Labs/Lab-02/Lab02.pdf) | Common-source amplifier design and simulation | Completed |
+| [Lab 03](Labs/Lab-03/Lab03.pdf) | Cascode amplifier design and gain-bandwidth comparison | Completed |
+| [Lab 04](Labs/Lab-04/Lab_04.pdf) | Common-drain amplifier analysis, peaking, and output impedance | Completed |
+| [Lab 05](Labs/Lab-05/Lab05.pdf) | Simple and wide-swing cascode current mirrors | Completed |
+| [Lab 06](Labs/Lab-06/Lab06.pdf) | Differential amplifier design, CMRR, and common-mode input range | Completed |
+| [Lab 07](Labs/Lab-07/Lab07_5T_OTA_Report.pdf) | 5-transistor OTA design and open-/closed-loop analysis | Completed |
+| [Lab 08](Labs/Lab-08/Lab08_Negative_Feedback_Report.pdf) | Negative feedback with behavioral and 5T OTAs | Completed |
+| [Lab 09](Labs/Lab-09/Lab09_Two_Stage_Miller_OTA_Report.pdf) | Two-stage Miller-compensated OTA mini project | Completed |
+| [Lab 10](Labs/Lab-10/Lab10_Noise.pdf) | Low-pass filter and 5T OTA noise simulations | Completed |
+| [Lab 11](Labs/Lab-11/Lab11_OTA.pdf) | Fully differential folded-cascode OTA with common-mode feedback | Completed |
+
+An additional source PDF, [`optional lab1_2_3.pdf`](Labs/Optional-Labs-01-03/optional%20lab1_2_3.pdf), is retained separately as supporting optional work for Labs 01-03.
+
+## Tools and technologies
+
+The lab reports explicitly reference:
+
+- Cadence Tools and Analog Design Tools (ADT)
+- CMOS design in 0.18 um and 0.13 um GF180MCU technologies
+- Operating-point, AC, transient, DC-sweep, pole-zero, STB, Monte Carlo, and noise analyses
+- gm/ID-based device sizing methodology
+
+## Repository roadmap
+
+Future updates may add, per lab:
+
+- Schematics
+- Simulation files
+- Simulation results
+- SPICE/netlist files
+- Design calculations
+- Layout files and results
+- Additional documentation
+
+## Author
+
+**Mohamed Adel**  
+Electronics & Communications Engineering student focusing on **Analog IC Design**.
