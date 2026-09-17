@@ -27,9 +27,9 @@ The submitted lab reports cover:
 | [Lab 06](Labs/Lab-06/Lab06.pdf) | Differential amplifier design, CMRR, and common-mode input range | 
 | [Lab 07](Labs/Lab-07/Lab07_5T_OTA_Report.pdf) | 5-transistor OTA design and open-/closed-loop analysis | 
 | [Lab 08](Labs/Lab-08/Lab08_Negative_Feedback_Report.pdf) | Negative feedback with behavioral and 5T OTAs | 
-| [Lab 09](Labs/Lab-09/Lab09_Two_Stage_Miller_OTA_Report.pdf) | Two-stage Miller-compensated OTA mini project | 
+| [Mini-project1](Labs/Lab-09/Lab09_Two_Stage_Miller_OTA_Report.pdf) | Two-stage Miller-compensated OTA mini project | 
 | [Lab 10](Labs/Lab-10/Lab10_Noise.pdf) | Low-pass filter and 5T OTA noise simulations | 
-| [Lab 11](Labs/Lab-11/Lab11_OTA.pdf) | Fully differential folded-cascode OTA with common-mode feedback | 
+| [Mini-project2](Labs/Lab-11/Lab11_OTA.pdf) | Fully differential folded-cascode OTA with common-mode feedback | 
 
 An additional source PDF, [`optional lab1_2_3.pdf`](Labs/Optional-Labs-01-03/optional%20lab1_2_3.pdf), is retained separately as supporting optional work for Labs 01-03.
 
