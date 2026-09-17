@@ -8,7 +8,7 @@ Note: This repository currently contains only the lab reports (PDFs). Simulation
 
 The submitted lab reports cover:
 
-- RC low-pass filters and MOSFET DC/small-signal characteristics
+
 - Common-source, common-drain, cascode, and differential amplifiers
 - Simple and wide-swing cascode current mirrors, including mismatch analysis
 - Operational transconductance amplifiers (5T, two-stage Miller-compensated, and fully differential folded-cascode)
